@@ -1,7 +1,5 @@
 
-# Geospatial Data Tutorial
-
-
+# Tutorial Geospatial Data 
 
 **Geospatial or spatial data represents the location, size and shape of an object on planet Earth such as a building, lake, mountain or township. Geospatial data may also include attributes that provide more information about the entity that is being represented.**
 
